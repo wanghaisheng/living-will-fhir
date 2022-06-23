@@ -1,4 +1,4 @@
-# living-will-fhir
+# living-will-in-fhir
 
 
 * Purpose 1: explore how to represent adi in FHIR format for easily transfer to different systems         
