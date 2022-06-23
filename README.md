@@ -1,10 +1,10 @@
 # living-will-fhir
 
 
-explore how to represent adi in FHIR format for easily transfer to different systems         
-explore how to embed FHIR cdss hook of adi in existing EMR/EHR             
-explore amis to design simple form        
-explore how to utilize blockchain to          
+* Purpose 1: explore how to represent adi in FHIR format for easily transfer to different systems         
+* Purpose 2: explore how to embed FHIR cdss hook of adi in existing EMR/EHR             
+* Purpose 3: explore amis to design simple form        
+* Purpose 4: explore how to utilize blockchain to          
 
 患者生前预嘱
 
